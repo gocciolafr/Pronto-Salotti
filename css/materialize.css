@@ -5053,6 +5053,7 @@ small {
 .tabs.tabs-transparent .tab a:hover,
 .tabs.tabs-transparent .tab a.active {
   color: #fff;
+  font-weight: bold;
 }
 
 .tabs.tabs-transparent .indicator {
@@ -5099,6 +5100,7 @@ small {
 .tabs .tab a:hover, .tabs .tab a.active {
   background-color: transparent;
   color: #ee6e73;
+  font-weight: bold;
 }
 
 .tabs .tab.disabled a,
